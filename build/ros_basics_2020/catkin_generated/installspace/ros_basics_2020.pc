@@ -1,0 +1,8 @@
+prefix=/home/ros-basics/Desktop/ros_practicals_ws/install
+
+Name: ros_basics_2020
+Description: Description of ros_basics_2020
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

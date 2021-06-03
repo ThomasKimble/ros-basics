@@ -1,0 +1,2 @@
+ros_basics_2020
+-DCATKIN_DEVEL_PREFIX=/home/ros-basics/Desktop/ros_practicals_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros-basics/Desktop/ros_practicals_ws/install -G Unix Makefiles
